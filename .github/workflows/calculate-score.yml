@@ -2,7 +2,7 @@ name: Calculate Student Score
 
 on:
   schedule:
-    # 每天UTC时间0点运行
+    # 每天北京时间早上8点运行（UTC时间0点，北京时间=UTC+8）
     - cron: '0 0 * * *'
   workflow_dispatch:
     # 允许手动触发
