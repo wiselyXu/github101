@@ -11,11 +11,10 @@ Solopreneurs 的特点是：
 ---
 
 ## CI 自动评分与运行指引
-
-- 个人文章检测文件名：仓库根目录 {你的 GitHub 用户名}.md（例如：XiaoKuge.md）
+- 个人文章检测文件名：仓库根目录 {你的GitHub用户名}.md（例如：XiaoKuge.md）
 - 课程作业检测仅在 PR 到 main 时执行，请通过 Pull Request 提交作业：
-  - Lesson1：assignments/lesson1/{你的 GitHub 用户名}.md
-  - Lesson2：assignments/lesson2/{你的 GitHub 用户名}.md
+  - Lesson1：assignments/lesson1/{你的GitHub用户名}.md
+  - Lesson2：assignments/lesson2/{你的GitHub用户名}.md
 - 自动评分工作流： [.github/workflows/calculate-score.yml](.github/workflows/calculate-score.yml)
 - 首次 Fork 后手动运行：
   1. 打开你 Fork 后的仓库页面，点击 Actions
