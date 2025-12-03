@@ -14,7 +14,7 @@ Odoo 是一套开源的全业务一体化 ERP（企业资源计划）套件，�
 
 #### 1 SaaS 订阅
 
-    Odoo.sh 公有云（按用户数/APP 数阶梯定价）和 Odoo.On-Premise 私有云订阅，占收入 60%+。
+Odoo.sh 公有云（按用户数/APP 数阶梯定价）和 Odoo.On-Premise 私有云订阅，占收入 60%+。
 
 #### 2 企业版许可证
 
