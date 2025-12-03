@@ -1,5 +1,7 @@
-Git 工具安装与使用报告
-学员 GitHub 用户名: wiselyXu
+# Git 工具安装与使用报告
+
+## 学员 GitHub 用户名: wiselyXu
+
 我是老程序员， 都安装过好多次， 这个就不细写了， 直接截图我的 git --version
 
 1. Git 安装过程
